@@ -1,6 +1,112 @@
-48 Hours More
-48 Hours
-60 Days In by A&E
-Aftershock
-Autopsy
-Intervention
+48 Hours ------ Aus
+48 Hours ------ Pluto CA
+48 Hours ------ Pluto GB
+48 Hours ------ Pluto US
+More 48 Hours ------ Pluto GB
+60 Days In by A&E ------ Samsung US
+Aftershock ------ Pluto CA
+Aftershock ------ Pluto GB
+American Crime Channel ------ Plex AU
+American Crime Channel (Plex au copy)
+American Crimes ------ Pluto US
+American Crimes (Pluto US copy)
+Cold Case Files ------ Samsung US
+Cold Case Files by A&E ------ Pluto US
+Cold Case Files by A&E (SS US Copy / doesn't load)
+Court TV ------ Pluto US
+Court TV ------ Samsung CA
+Court TV (Pluto US Copy / doesn't load)
+Court TV (Pluto US Copy / doesn't load)
+Crime Hunters ------ Aus
+Crime & Justice ------ Pluto CA
+Crime & Justice ------ Samsung GB
+Crime & Justice (Pluto CAN copy / doesn't load)
+Crime 24/7 ------ Samsung US
+Crime 360 by A&E ------ Pluto US
+Crime 360 (Pluto US copy / doesn't load)
+Crime Files ------ Pluto CA
+Crime Investigation ------ Pluto GB
+Crime Scene Solvers ------ Pluto GB
+Crime Scene TV ------ Plex AU
+Crime Scene TV (Plex AU copy)
+Crime Scene TV (Plex AU copy)
+Crime Scene TV (Plex AU copy)
+Crime Time ------ Aus
+Crime ThrillHer ------ Samsung US
+Crime ThrillHer (SS US copy / doesn't load)
+Crime Zone ------ Samsung US
+Crimes Cults Killers ------ Samsung US
+Crimes That Shook Britain ------ Pluto GB
+Dateline 24/7 ------ Pluto US
+DATELINE 24/7 (Pluto US copy)
+Dateline 24/7 (Pluto US copy)
+Deadly Women ------ Pluto GB
+Diagnosis Murder ------ Aus
+Diagnosis Murder ------ Pluto CA
+Dr. G: Medical Examiner ------ Roku
+Evidence of Evil ------ Pluto GB
+FBI Files ------ Pluto CA
+FBI Files ------ Pluto GB
+FilmRise Forensic Files ------ Roku
+FilmRise True Crime ------ Roku
+FilmRise True Crime ------ Samsung CA
+Forensic Files ------ Pluto CA
+Forensic Files (Pluto can copy / doesn't load)
+Forensic Files ------ Samsung CA
+Forensic Files (SS CAN copy)
+Homicide Hunter (SS UK copy, has better listing)
+Homicide Hunter ------ Samsung GB
+I Survived ------ Samsung GB
+I Survived… ------ Samsung US
+Inside Crime ------ Pluto GB
+Inside Crime ------ Samsung GB
+Investigation ------ Plex US
+Law & Crime ------ Roku
+Law&Crime (Roku copy)
+Law & Crime (Roky copy)
+Law & Crime (Roku copy / doesn't load)
+Medical Detectives ------ Pluto GB
+More True Crime ------ Pluto US
+More TV Crime ------ Pluto GB
+On The Case ------ Aus
+On The Case ------ Pluto GB
+Oxygen True Crime Archives ------ Pluto US
+Oxygen True Crimes Archive (SS US copy / doesn't load)
+Pluto TV Crime ------ Pluto GB
+Pluto TV Crime ------ Samsung GB
+Pluto TV Inside ------ Samsung GB
+Pluto TV Investigation ------ Pluto GB
+Pluto TV Lives ------ Pluto US
+Pluto TV True Crime ------ Pluto CA
+Pluto TV True Crime ------ Pluto US
+Real Crime ------ Roku
+Real Crime ------ Plex AU
+The First 48 ------ Samsung US
+The New Detectives ------ Pluto CA
+The New Detectives ------ Pluto GB
+The New Detectives ------ Pluto US
+The New Detectives (Pluto us copy)
+Total Crime ------ Pluto CA
+Total Crime ------ Roku
+Total Crime (Pluto can copy)
+Total Crime (Pluto Can copy / doesn't load)
+TruBlu Crime Channel ------ Roku
+True Crime Files ------ Aus
+True Crime Now
+True Crime Now
+True Crime Now (SS Can copy / doesn't load)
+True Crime Now (Plex au copy)
+True Crime UK ------ Pluto GB
+True Crime UK (Pluto US copy)
+Unsolved Mysteries
+Unsolved Mysteries
+Unsolved Mysteries
+Unsolved Mysteries
+Unsolved Mysteries
+Unsolved Mysteries
+Witness to Justice ------ Samsung US
+Women Behind Bars ------ Plex AU
+Women Behind Bars ------ Plex CA
+Women Behind Bars ------ Plex NZ
+Women Behind Bars ------ Plex US
+World’s Most Evil Killers ------ Samsung US
