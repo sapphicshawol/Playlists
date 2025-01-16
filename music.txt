@@ -2,6 +2,7 @@ Classica ------ Pluto CA
 Classica ------ Pluto US
 Greatest Holiday Hits ------ Samsung US
 Kidz Bop TV ------ Plex AU
+Kidz Bop TV ------ Plex CA
 Kidz Bop TV ------ Plex NZ
 Kidz Bop TV ------ Plex US
 MTV Biggest Pop ------ Pluto CA
@@ -12,19 +13,24 @@ MTV Flow Latino ------ Pluto GB
 MTV Flow Latino ------ Pluto US
 MTV Spankin' New ------ Pluto GB
 MTV Spankin' New ------ Pluto US
+NEW K-POP ------ Plex CA
 NEW K-POP ------ Plex US
 NEW KPOP ------ Samsung US
 party tyme karaoke ------ Plex AU
+party tyme karaoke ------ Plex CA
 party tyme karaoke ------ Plex NZ
 party tyme karaoke ------ Plex US
+Qello Concerts ------ Plex CA
 Qello Concerts ------ Plex US
 Qello Concerts ------ Pluto CA
 Qello Concerts by Stingray ------ Samsung CA
 Qello Concerts by Stingray ------ Samsung US
 Remember the ‘80s
 Remember the ‘80s
+Remember the ‘80s ------ Plex CA
 Remember the ‘80s ------ Plex US
 Smooth Jazz ------ Plex AU
+Smooth Jazz ------ Plex CA
 Smooth Jazz ------ Plex NZ
 Smooth Jazz ------ Plex US
 Staccs Music TV 80’s Hits ------ Samsung GB
@@ -32,8 +38,10 @@ Stingray Classic Rock ------ Samsung CA
 Stingray Classic Rock ------ Samsung US
 Stingray Classica ------ Samsung CA
 Stingray Classica ------ Samsung US
+Stingray Classica Stream ------ Plex CA
 Stingray Classica Stream ------ Plex US
 Stingray DJAZZ ------ Plex AU
+Stingray DJAZZ ------ Plex CA
 Stingray DJAZZ ------ Plex US
 Stingray DJAZZ ------ Samsung CA
 Stingray DJAZZ ------ Samsung US
@@ -42,11 +50,13 @@ Stingray Easy Listening ------ Samsung US
 Stingray Flashback 70s ------ Samsung US
 Stingray Greatest Holiday Hits
 Stingray Greatest Holiday Hits
+Stingray Greatest Holiday Hits ------ Plex CA
 Stingray Greatest Holiday Hits ------ Plex US
 Stingray Greatest Holiday Hits ------ Samsung CA
 Stingray Hot Country Christmas ------ Samsung CA
 Stingray Hot Country Christmas ------ Samsung US
 Stingray Karaoke ------ Plex AU
+Stingray Karaoke ------ Plex CA
 Stingray Karaoke ------ Plex US
 Stingray Nothin' But 90s ------ Samsung CA
 Stingray Nothin' But 90s ------ Samsung US
@@ -62,15 +72,19 @@ Stingray Today's K-Pop ------ Samsung US
 Stingray Today's Latin Pop ------ Samsung CA
 Stingray Today's Latin Pop ------ Samsung US
 Today's K-Pop ------ Plex AU
+Today's K-Pop ------ Plex CA
 Today's K-Pop ------ Plex NZ
 Today's K-Pop ------ Plex US
 TRACE Brazuca ------ Plex AU
+TRACE Brazuca ------ Plex CA
 TRACE Brazuca ------ Plex NZ
 TRACE Brazuca ------ Plex US
 TRACE Latina ------ Plex AU
+TRACE Latina ------ Plex CA
 TRACE Latina ------ Plex NZ
 TRACE Latina ------ Plex US
 TRACE Urban ------ Plex AU
+TRACE Urban ------ Plex CA
 TRACE Urban ------ Plex NZ
 TRACE Urban ------ Plex US
 Trace Urban ------ Samsung GB
