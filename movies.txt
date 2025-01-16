@@ -66,7 +66,6 @@ Hallmark Movies & More ------ Pluto US
 Hallmark Movies & More ------ Samsung US
 Horror by ALTER ------ Plex US
 Horror Stories ------ Plex US
-Kidz Bop TV ------ Plex CA
 Movie Favorites by Lifetime ------ Plex US
 Movie Favorites By Lifetime ------ Pluto US
 Movie Favorites By Lifetime ------ Samsung US
@@ -82,12 +81,10 @@ My Time Movie Network ------ Roku
 MyTime Movie Network ------ Plex US
 MyTime Movie Network ------ Samsung GB
 MyTime Movie Network ------ Samsung US
-NEW K-POP ------ Plex CA
 NEW K.MOVIES ------ Plex CA
 NEW K.MOVIES ------ Plex US
 Paramount Movie Channel ------ Pluto US
 Paramount Movie Channel ------ Samsung US
-party tyme karaoke ------ Plex CA
 Pluto Classic Movie Westerns ------ Pluto CA
 Pluto TV Action ------ Pluto GB
 Pluto TV Action ------ Pluto US
@@ -125,16 +122,5 @@ Pluto TV Westerns ------ Pluto CA
 Pluto TV Westerns ------ Pluto GB
 Pluto TV Westerns ------ Pluto US
 Pluto TV Westerns ------ Samsung US
-Qello Concerts ------ Plex CA
-Remember the ‘80s ------ Plex CA
 Romance 365 ------ Pluto CA
-Smooth Jazz ------ Plex CA
-Stingray Classica Stream ------ Plex CA
-Stingray DJAZZ ------ Plex CA
-Stingray Greatest Holiday Hits ------ Plex CA
-Stingray Karaoke ------ Plex CA
 Thrillers 365 ------ Pluto CA
-Today's K-Pop ------ Plex CA
-TRACE Brazuca ------ Plex CA
-TRACE Latina ------ Plex CA
-TRACE Urban ------ Plex CA
