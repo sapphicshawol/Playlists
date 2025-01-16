@@ -1,291 +1,140 @@
-ACC Digital Network ------ Samsung US
-ACCDN ------ Plex US
-ACL Cornhole TV ------ Plex CA
-ACL Cornhole TV ------ Plex NZ
-ACL Cornhole TV ------ Plex US
-American Ninja Warrior ------ Roku
-American Ninja Warrior ------ Samsung US
-AXS TV Now ------ Plex CA
-beIN SPORTS XTRA ------ Plex AU
-beIN SPORTS XTRA ------ Plex US
-beIN SPORTS XTRA ------ Pluto CA
-beIN SPORTS XTRA ------ Pluto US
-beIN SPORTS Xtra ------ Roku
-beIN SPORTS XTRA ------ Samsung CA
-beIN SPORTS XTRA ------ Samsung US
-Bellator MMA ------ Pluto US
-Billiard TV ------ Plex AU
-Billiard TV ------ Plex CA
-Billiard TV ------ Plex NZ
-Billiard TV ------ Plex US
-CampusLore Sports ------ Plex NZ
-CampusLore Sports ------ Plex US
-Cars ------ Samsung US
-CBS Sports Golazo Network ------ Plex US
-CBS Sports HQ ------ Plex US
-CBS Sports HQ ------ Samsung US
-CHGO Sports ------ Roku
-Choppertown ------ Plex AU
-Choppertown ------ Plex CA
-Choppertown ------ Plex NZ
-Choppertown ------ Plex US
-Court Sports Network ------ Plex AU
-Court Sports Network ------ Plex CA
-Court Sports Network ------ Plex NZ
-Court Sports Network ------ Plex US
-Cricket Gold ------ Plex CA
-DAZN Ringside ------ Pluto GB
-DAZN Ringside ------ Pluto US
-DAZN Ringside ------ Roku
-DAZN Ringside ------ Samsung GB
-DAZN Women's Football ------ Pluto GB
-DAZN Women's Football ------ Samsung GB
-DFB Play TV ------ Samsung GB
-FanDuel TV Extra ------ Plex US
-FanDuel TV Extra ------ Pluto US
-FanDuel TV Extra ------ Samsung US
-FIFA+ ------ Plex AU
-FIFA+ ------ Plex CA
-FIFA+ ------ Plex NZ
-FIFA+ ------ Plex US
-FIFA+ ------ Pluto CA
-FIFA+ ------ Pluto GB
-FIFA+ ------ Samsung CA
-FIFA+ ------ Samsung GB
-Fifth Gear (UK)
-Fifth Gear (UK) ------ Plex CA
-Fifth Gear (UK) ------ Plex US
-Fight Network ------ Plex AU
-Fight Network ------ Plex CA
-Fight Network ------ Plex NZ
-Fight Network ------ Plex US
-Fite 24/7 ------ Plex AU
-Fite 24/7 ------ Plex CA
-Fite 24/7 ------ Plex NZ
-Fite 24/7 ------ Plex US
-FITE by Triller 24/7 ------ Roku
-Formula 1 Channel ------ Pluto US
-FOX SOUL ------ Samsung US
-FOX Sports ------ Plex US
-FOX Sports ------ Pluto US
-FOX Sports ------ Roku
-FOX Sports ------ Samsung US
-FTF Sports ------ Plex AU
-FTF Sports ------ Plex CA
-FTF Sports ------ Plex NZ
-FTF Sports ------ Plex US
-Fubo Sports Network ------ Roku
-fubo Sports Network ------ Samsung US
-FUEL TV ------ Plex AU
-FUEL TV ------ Plex CA
-FUEL TV ------ Plex NZ
-FUEL TV ------ Plex US
-GLORY Kickboxing ------ Plex AU
-GLORY Kickboxing ------ Plex CA
-GLORY Kickboxing ------ Plex NZ
-GLORY Kickboxing ------ Plex US
-GLORY Kickboxing ------ Pluto US
-Golazo Network ------ Pluto US
-GolfPass ------ Pluto US
-GolfPass ------ Roku
-GOLFPASS ------ Samsung US
-GoUSA TV ------ Plex AU
-GoUSA TV ------ Plex CA
-GoUSA TV ------ Plex NZ
-GoUSA TV ------ Plex US
-GoUSA TV ------ Samsung GB
-HBCUGO SPORTS ------ Plex US
-Hot Wheels Action ------ Plex US
-Hot Wheels Action ------ Samsung US
-MAVTV Motorsports Network ------ Plex AU
-MAVTV Motorsports Network ------ Plex NZ
-MAVTV Select ------ Plex CA
-MAVTV Select ------ Plex US
-MAVTV Select ------ Roku
-MAVTV Select ------ Samsung US
-MLB ------ Plex AU
-MLB ------ Plex CA
-MLB ------ Plex NZ
-MLB ------ Plex US
-MLB ------ Pluto US
-MLB Channel ------ Samsung CA
-MLB Channel ------ Samsung US
-MODUS Super Series Darts ------ Pluto CA
-Monster Jam ------ Plex AU
-Monster Jam ------ Plex CA
-Monster Jam ------ Plex NZ
-Monster Jam ------ Plex US
-Monster Jam ------ Pluto CA
-Monster Jam ------ Pluto GB
-Monster Jam ------ Pluto US
-MotorRacing ------ Samsung GB
-Motorsport.tv ------ Plex AU
-Motorsport.tv ------ Plex CA
-Motorsport.tv ------ Plex NZ
-Motorsport.tv ------ Plex US
-MotorTrend ------ Roku
-MotorTrend FAST TV ------ Plex US
-MotorTrend FAST TV ------ Pluto US
-MotorTrend FAST TV ------ Samsung US
-Motorvision TV ------ Plex AU
-Motorvision TV ------ Plex CA
-Motorvision TV ------ Plex NZ
-Motorvision TV ------ Plex US
-MSG Sports Zone ------ Roku
-MSG SportsZone ------ Plex US
-MSG SportsZone ------ Samsung US
-NBC Sports ------ Pluto US
-NBC Sports ------ Samsung US
-NFL Channel ------ Plex US
-NFL Channel ------ Samsung US
-NHRA TV ------ Plex AU
-NHRA TV ------ Plex CA
-NHRA TV ------ Plex NZ
-NHRA TV ------ Plex US
-NHRA TV ------ Samsung CA
-NHRA TV ------ Samsung US
-Ninja Warrior ------ Pluto GB
-Ninja Warrior ------ Samsung GB
-NitroCircusTV ------ Plex CA
-NitroCircusTV ------ Plex NZ
-NitroCircusTV ------ Plex US
-ONE Championship TV ------ Pluto US
-One Championship TV ------ Samsung CA
-One Championship TV ------ Samsung US
-Origin Sports ------ Samsung CA
-Origin Sports ------ Samsung US
-Pac-12 Insider ------ Plex AU
-Pac-12 Insider ------ Plex CA
-Pac-12 Insider ------ Plex NZ
-Pac-12 Insider ------ Plex US
-Pac-12 Insider ------ Samsung US
-PBR RidePass ------ Pluto US
-PFL ------ Samsung CA
-PFL ------ Samsung US
-PFL MMA ------ Plex AU
-PFL MMA ------ Plex CA
-PFL MMA ------ Plex NZ
-PFL MMA ------ Plex US
-PFL MMA ------ Pluto US
-PGA TOUR ------ Pluto CA
-PGA TOUR ------ Pluto GB
-PGA TOUR ------ Pluto US
-PGA Tour ------ Samsung GB
-PGA Tour ------ Samsung US
-PHLY Sports ------ Roku
-PickleballTV ------ Plex US
-PickleballTV ------ Samsung CA
-PickleballTV ------ Samsung US
-PickleTV ------ Plex AU
-PickleTV ------ Plex CA
-PickleTV ------ Plex NZ
-PickleTV ------ Plex US
-PLL Network ------ Plex AU
-PLL Network ------ Plex CA
-PLL Network ------ Plex NZ
-PLL Network ------ Plex US
-Pluto TV Fishing ------ Pluto GB
-Pluto TV Motor ------ Pluto GB
-Pluto TV Motor ------ Samsung GB
-Poker Night TV ------ Plex AU
-Poker Night TV ------ Plex CA
-Poker Night TV ------ Plex NZ
-Poker Night TV ------ Plex US
-PokerGO ------ Plex AU
-PokerGO ------ Plex US
-PokerGo ------ Pluto US
-POWERNATION ------ Pluto US
-POWERNATION ------ Roku
-POWERNATION ------ Samsung CA
-POWERNATION ------ Samsung US
-Racing America ------ Plex AU
-Racing America ------ Plex CA
-Racing America ------ Plex NZ
-Racing America ------ Plex US
-RCM ------ Plex AU
-Realmadrid TV ------ Pluto CA
-Realmadrid TV ------ Pluto GB
-Red Bull TV ------ Samsung GB
-Road Renegades ------ Samsung US
-RYZ Sports Network ------ Samsung CA
-RYZ Sports Network ------ Samsung US
-Sky Sports Classics ------ Samsung GB
-Sky Sports Stories ------ Samsung GB
-Speed Sport 1 ------ Pluto US
-SPEEDVISION ------ Plex AU
-SPEEDVISION ------ Plex CA
-SPEEDVISION ------ Plex NZ
-SPEEDVISION ------ Plex US
-SportsGrid ------ Plex AU
-SportsGrid ------ Plex CA
-SportsGrid ------ Plex NZ
-SportsGrid ------ Plex US
-SPORTSGRID ------ Roku
-SportsGrid ------ Samsung US
-Stadium ------ Samsung US
-SURF NOW TV ------ Samsung US
-Surfer ------ Plex CA
-Surfer ------ Plex NZ
-Team USA TV ------ Roku
-Tennis Channel International ------ Samsung GB
-Tennis+
-Tennis+ ------ Plex AU
-Tennis+ ------ Plex NZ
-Tennis+ ------ Plex US
-The Mightiest by CTV ------ Plex CA
-The Wicked Tuna Channel ------ Plex AU
-The Wicked Tuna Channel ------ Plex CA
-The Wicked Tuna Channel ------ Plex NZ
-The Wicked Tuna Channel ------ Samsung GB
-The World Poker Tour ------ Plex AU
-The World Poker Tour ------ Plex AU
-The World Poker Tour ------ Plex CA
-The World Poker Tour ------ Plex CA
-The World Poker Tour ------ Plex NZ
-The World Poker Tour ------ Plex NZ
-The World Poker Tour ------ Plex US
-The World Poker Tour ------ Plex US
-TNA Wrestling ------ Pluto CA
-TNA Wrestling ------ Pluto US
-TNA Wrestling ------ Samsung CA
-TNA Wrestling ------ Samsung US
-TNA Wrestling Channel ------ Plex AU
-TNA Wrestling Channel ------ Plex CA
-TNA Wrestling Channel ------ Plex NZ
-TNA Wrestling Channel ------ Plex US
-Triton Poker ------ Pluto US
-TSN The Ocho ------ Samsung CA
-UEFA Champions League ------ Pluto US
-UFC ------ Plex AU
-UFC ------ Plex CA
-UFC ------ Plex NZ
-UFC ------ Plex US
-UFC ------ Samsung CA
-UFC ------ Samsung US
-Unbeaten Sports Channel ------ Samsung US
-USA TODAY ------ Plex AU
-WAPA+ ------ Roku
-Waypoint TV ------ Samsung CA
-Wicked Tuna ------ Pluto GB
-Willow Sports ------ Plex CA
-Willow Sports ------ Plex US
-Wired2Fish ------ Plex NZ
-Wired2Fish ------ Plex US
-Women of Wrestling ------ Samsung US
-Women's Sports Network ------ Plex AU
-Women's Sports Network ------ Plex CA
-Women's Sports Network ------ Plex NZ
-Women's Sports Network ------ Plex US
-Women's Sports Network ------ Roku
-Women's Sports Network ------ Samsung US
-World Poker Tour ------ Pluto CA
-World Poker Tour ------ Pluto GB
-World Poker Tour ------ Pluto US
-World Poker Tour ------ Samsung CA
-World Poker Tour ------ Samsung GB
-World Poker Tour ------ Samsung US
-WOW – Women of Wrestling ------ Pluto US
-WWE Superstar Central ------ Samsung US
-X Games TV ------ Roku
-XFC TV ------ Plex AU
-Zee Sports ------ Samsung GB
+24 Hour Free Movies ------ Plex CA
+24 Hour Free Movies ------ Plex US
+Action Hollywood Movies ------ Plex AU
+Action Hollywood Movies ------ Plex CA
+Action Hollywood Movies ------ Plex NZ
+Action Hollywood Movies ------ Plex US
+Action Movies - Rakuten TV ------ Samsung GB
+AMC Thrillers ------ Plex US
+ARTFLIX - Movie Classics ------ Plex AU
+ARTFLIX - Movie Classics ------ Plex CA
+ARTFLIX - Movie Classics ------ Plex NZ
+ARTFLIX - Movie Classics ------ Plex US
+At the Movies ------ Plex US
+Bigtime - Free Movies ------ Plex AU
+Bigtime - Free Movies ------ Plex CA
+Bigtime - Free Movies ------ Plex NZ
+Bigtime - Free Movies ------ Plex US
+Black Cinema ------ Pluto US
+BlackPix ------ Plex CA
+BlackPix ------ Plex US
+BlackPix ------ Roku
+British Screen Classics ------ Pluto GB
+British Screen Classics ------ Samsung GB
+Christmas 365 ------ Pluto CA
+Christmas Plus ------ Plex US
+Classic Movie Westerns ------ Pluto US
+Classic Movies Channel ------ Pluto US
+Discover Film ------ Plex AU
+Discover Film ------ Plex CA
+Discover Film ------ Plex NZ
+Discover Film ------ Plex US
+FilmRise Action ------ Plex CA
+FilmRise Action ------ Plex US
+FilmRise Action ------ Roku
+FilmRise Action ------ Samsung CA
+FilmRise Black TV ------ Roku
+FilmRise Free Movies ------ Plex CA
+FilmRise Free Movies ------ Plex US
+FilmRise Free Movies ------ Roku
+FilmRise Free Movies ------ Samsung CA
+FilmRise Horror ------ Plex CA
+FilmRise Horror ------ Plex US
+FilmRise Horror ------ Roku
+FilmRise Horror ------ Samsung CA
+FilmRise Sci-Fi ------ Plex CA
+FilmRise Sci-Fi ------ Plex US
+FilmRise Sci-Fi ------ Roku
+FilmRise Western ------ Plex CA
+FilmRise Western ------ Plex US
+FilmRise Western ------ Roku
+FilmRise Western ------ Samsung CA
+Flicks of Fury ------ Pluto US
+Free Movies Plus ------ Plex US
+FreeTV Family ------ Plex AU
+FreeTV Family ------ Plex CA
+FreeTV Family ------ Plex US
+FreeTV Fantasy ------ Plex AU
+FreeTV Fantasy ------ Plex CA
+FreeTV Fantasy ------ Plex US
+FrightFlix ------ Plex AU
+FrightFlix ------ Plex CA
+FrightFlix ------ Plex NZ
+FrightFlix ------ Plex US
+Hallmark Movies & More ------ Plex US
+Hallmark Movies & More ------ Pluto US
+Hallmark Movies & More ------ Samsung US
+Horror by ALTER ------ Plex US
+Horror Stories ------ Plex US
+Kidz Bop TV ------ Plex CA
+Movie Favorites by Lifetime ------ Plex US
+Movie Favorites By Lifetime ------ Pluto US
+Movie Favorites By Lifetime ------ Samsung US
+MOVIESPHERE ------ Plex AU
+MOVIESPHERE ------ Plex CA
+MOVIESPHERE ------ Plex US
+Moviesphere ------ Pluto GB
+MovieSphere ------ Samsung US
+MovieSphere by Lionsgate ------ Pluto CA
+MovieSphere by Lionsgate ------ Pluto US
+Moviesphere by Lionsgate ------ Samsung GB
+My Time Movie Network ------ Roku
+MyTime Movie Network ------ Plex US
+MyTime Movie Network ------ Samsung GB
+MyTime Movie Network ------ Samsung US
+NEW K-POP ------ Plex CA
+NEW K.MOVIES ------ Plex CA
+NEW K.MOVIES ------ Plex US
+Paramount Movie Channel ------ Pluto US
+Paramount Movie Channel ------ Samsung US
+party tyme karaoke ------ Plex CA
+Pluto Classic Movie Westerns ------ Pluto CA
+Pluto TV Action ------ Pluto GB
+Pluto TV Action ------ Pluto US
+Pluto TV Action ------ Samsung GB
+Pluto TV Action Movies ------ Pluto CA
+Pluto TV Comedy Movies ------ Pluto CA
+Pluto TV Crime Movies ------ Pluto US
+Pluto TV Cult Films ------ Pluto GB
+Pluto TV Cult Films ------ Pluto US
+Pluto TV Drama ------ Pluto US
+Pluto TV Drama Movies ------ Pluto CA
+Pluto TV Family Movie Club ------ Pluto GB
+Pluto TV Fantastic ------ Pluto US
+Pluto TV Fantastic ------ Samsung US
+Pluto TV Hibernation Movies ------ Pluto CA
+Pluto TV Horror ------ Pluto CA
+Pluto TV Horror ------ Pluto GB
+Pluto TV Horror ------ Pluto US
+Pluto TV Icons ------ Pluto US
+Pluto TV More Movies ------ Pluto GB
+Pluto TV Movies ------ Pluto GB
+Pluto TV Movies ------ Samsung GB
+Pluto TV Romance ------ Pluto US
+Pluto TV Romance ------ Samsung GB
+Pluto TV Sci-fi ------ Pluto CA
+Pluto TV Sci-Fi ------ Pluto GB
+Pluto TV Sci-Fi ------ Pluto US
+Pluto TV Spotlight ------ Pluto US
+Pluto TV Staff Picks ------ Pluto US
+Pluto TV Terror ------ Pluto US
+Pluto TV Thrillers ------ Pluto GB
+Pluto TV Thrillers ------ Pluto US
+Pluto TV Trending Now ------ Pluto US
+Pluto TV Westerns ------ Pluto CA
+Pluto TV Westerns ------ Pluto GB
+Pluto TV Westerns ------ Pluto US
+Pluto TV Westerns ------ Samsung US
+Qello Concerts ------ Plex CA
+Remember the ‘80s ------ Plex CA
+Romance 365 ------ Pluto CA
+Smooth Jazz ------ Plex CA
+Stingray Classica Stream ------ Plex CA
+Stingray DJAZZ ------ Plex CA
+Stingray Greatest Holiday Hits ------ Plex CA
+Stingray Karaoke ------ Plex CA
+Thrillers 365 ------ Pluto CA
+Today's K-Pop ------ Plex CA
+TRACE Brazuca ------ Plex CA
+TRACE Latina ------ Plex CA
+TRACE Urban ------ Plex CA
