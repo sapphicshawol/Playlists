@@ -1,11 +1,17 @@
 24 Hour Free Movies ------ Plex CA
 24 Hour Free Movies ------ Plex US
+Action Hollywood Movies ------ Plex AU
 Action Hollywood Movies ------ Plex CA
 Action Hollywood Movies ------ Plex NZ
 Action Hollywood Movies ------ Plex US
+Action Movies - Rakuten TV ------ Samsung GB
 AMC Thrillers ------ Plex US
+ARTFLIX - Movie Classics ------ Plex AU
+ARTFLIX - Movie Classics ------ Plex CA
 ARTFLIX - Movie Classics ------ Plex NZ
+ARTFLIX - Movie Classics ------ Plex US
 At the Movies ------ Plex US
+Bigtime - Free Movies ------ Plex AU
 Bigtime - Free Movies ------ Plex CA
 Bigtime - Free Movies ------ Plex NZ
 Bigtime - Free Movies ------ Plex US
@@ -19,9 +25,14 @@ Christmas 365 ------ Pluto CA
 Christmas Plus ------ Plex US
 Classic Movie Westerns ------ Pluto US
 Classic Movies Channel ------ Pluto US
+Discover Film ------ Plex AU
+Discover Film ------ Plex CA
+Discover Film ------ Plex NZ
 Discover Film ------ Plex US
 FilmRise Action ------ Plex CA
 FilmRise Action ------ Plex US
+FilmRise Action ------ Roku
+FilmRise Action ------ Samsung CA
 FilmRise Black TV ------ Roku
 FilmRise Free Movies ------ Plex CA
 FilmRise Free Movies ------ Plex US
@@ -40,8 +51,14 @@ FilmRise Western ------ Roku
 FilmRise Western ------ Samsung CA
 Flicks of Fury ------ Pluto US
 Free Movies Plus ------ Plex US
+FreeTV Family ------ Plex AU
+FreeTV Family ------ Plex CA
 FreeTV Family ------ Plex US
+FreeTV Fantasy ------ Plex AU
+FreeTV Fantasy ------ Plex CA
 FreeTV Fantasy ------ Plex US
+FrightFlix ------ Plex AU
+FrightFlix ------ Plex CA
 FrightFlix ------ Plex NZ
 FrightFlix ------ Plex US
 Hallmark Movies & More ------ Plex US
@@ -57,15 +74,20 @@ MOVIESPHERE ------ Plex CA
 MOVIESPHERE ------ Plex US
 Moviesphere ------ Pluto GB
 MovieSphere ------ Samsung US
+MovieSphere by Lionsgate ------ Pluto CA
 MovieSphere by Lionsgate ------ Pluto US
 Moviesphere by Lionsgate ------ Samsung GB
 My Time Movie Network ------ Roku
 MyTime Movie Network ------ Plex US
+MyTime Movie Network ------ Samsung GB
+MyTime Movie Network ------ Samsung US
+NEW K.MOVIES ------ Plex CA
 NEW K.MOVIES ------ Plex US
 Paramount Movie Channel ------ Pluto US
 Paramount Movie Channel ------ Samsung US
 Pluto Classic Movie Westerns ------ Pluto CA
 Pluto TV Action ------ Pluto GB
+Pluto TV Action ------ Pluto US
 Pluto TV Action ------ Samsung GB
 Pluto TV Action Movies ------ Pluto CA
 Pluto TV Comedy Movies ------ Pluto CA
@@ -78,6 +100,8 @@ Pluto TV Family Movie Club ------ Pluto GB
 Pluto TV Fantastic ------ Pluto US
 Pluto TV Fantastic ------ Samsung US
 Pluto TV Hibernation Movies ------ Pluto CA
+Pluto TV Horror ------ Pluto CA
+Pluto TV Horror ------ Pluto GB
 Pluto TV Horror ------ Pluto US
 Pluto TV Icons ------ Pluto US
 Pluto TV More Movies ------ Pluto GB
@@ -85,13 +109,16 @@ Pluto TV Movies ------ Pluto GB
 Pluto TV Movies ------ Samsung GB
 Pluto TV Romance ------ Pluto US
 Pluto TV Romance ------ Samsung GB
+Pluto TV Sci-fi ------ Pluto CA
 Pluto TV Sci-Fi ------ Pluto GB
+Pluto TV Sci-Fi ------ Pluto US
 Pluto TV Spotlight ------ Pluto US
 Pluto TV Staff Picks ------ Pluto US
 Pluto TV Terror ------ Pluto US
 Pluto TV Thrillers ------ Pluto GB
 Pluto TV Thrillers ------ Pluto US
 Pluto TV Trending Now ------ Pluto US
+Pluto TV Westerns ------ Pluto CA
 Pluto TV Westerns ------ Pluto GB
 Pluto TV Westerns ------ Pluto US
 Pluto TV Westerns ------ Samsung US
