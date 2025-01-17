@@ -1,0 +1,240 @@
+// ==UserScript==
+// @name         Tick m3u checkboxes (hardcoded list)
+// @namespace    http://tampermonkey.net/
+// @version      1.4
+// @description  ..
+// @match        https://m3u4u.com/playlisteditor*
+// @grant        none
+// ==/UserScript==
+
+// AI request when adding new channels:
+// Hi! can you please make this list code friendly by putting each one in between '...' and ending with a comma, starting on a new line each,
+// as well as make the content inside code safe for example changing doesn't to doesn\'t etc. Thank you
+
+(function() {
+    'use strict';
+
+
+
+    // Lists of items to select
+    const categories = {
+        '7, 9, 10, ABC, SBS': [],
+        'Australia': [],
+
+
+        'True Crime': [
+'48 Hours',
+'48 Hours',
+'48 Hours',
+'48 Hours',
+'More 48 Hours',
+'60 Days In by A&E',
+'Aftershock',
+'Aftershock',
+'American Crime Channel',
+'American Crime Channel (Plex au copy)',
+'American Crimes',
+'American Crimes (Pluto US copy)',
+'Cold Case Files',
+'Cold Case Files by A&E',
+'Cold Case Files by A&E (SS US Copy / doesn\'t load)',
+ // etc
+        ],
+
+
+        'Paranormal': [
+        'A Haunting',
+'Alien Nation by DUST',
+'Alien Nation by DUST',
+'Alien Nation by DUST (Pluto US copy)',
+'Alien Nation by DUST (Pluto us copy / doesn\'t load)',
+'Ancient Aliens',
+'Beyond Belief',
+'Beyond Belief (Plex AU copy)',
+'Beyond Belief (Plex AU copy)',
+'Beyond Belief (Plex AU copy)',
+'Beyond Belief: Fact or Fiction',
+'Beyond Paranormal',
+'Beyond Paranormal (Plex AU copy)',
+'Beyond Paranormal (Plex AU copy)',
+'Beyond Paranormal (Plex AU copy)',
+'Ghost Hunters',
+'Ghost Hunters',
+'Ghost Hunters',
+'Ghost Hunters',
+'Ghost Hunters (Plex au copy, plex has better listing)',
+'Ghost Hunters Channel',
+'Ghost Hunters Channel (Plex AU copy)',
+'Ghost Hunters Channel (Plex AU copy)',
+'Ghost Hunters Channel (Plex AU copy)',
+'Ghost Show and Friends',
+// etc
+],
+
+
+        'Home & Lifestyle': [
+        '5-Minute Crafts',
+'5-Minute Crafts (Plex AU copy)',
+'5-Minute Crafts (Plex AU copy)',
+'5-Minute Crafts (Plex AU copy)',
+'CraftsyTV',
+'CraftsyTV (Plex AU copy)',
+'CraftsyTV (Plex AU copy)',
+'CraftsyTV (Plex AU copy)',
+'Made It Myself TV',
+'Made It Myself TV (Plex AU copy)',
+'Made It Myself TV (Plex AU copy)',
+'Made It Myself TV (Plex AU copy)',
+'Architectural Digest',
+'At Home With Family Handyman',
+'At Home with Family Handyman',
+'Auction Hunters',
+'Better Homes And Gardens',
+'BBC Home & Garden (No EPG)',
+'BBC Home & Garden',
+'BBC Home & Garden (Same As Pluto US / doesn\'t load)',
+'BBC Home & Garden (Same As Pluto US / doesn\'t load)',
+'BBC Home & Garden (Same As Pluto US / doesn\'t load)',
+'BBC Home & Garden (Same As Pluto US / doesn\'t load)',
+'CTV @ Home',
+'Escape to the Country',
+'Escape To The Country',
+'Fixers and Flippers',
+'Flipping Nation',
+'Flipping Nation',
+'Flipping Nation by A&E',
+'Four in a Bed',
+'Four in a Bed (Same as Plex AU)',
+'Gardening with Monty Don',
+'Hello Inspo',
+'Hello Inspo (Roku copy stream, different lisitng)'
+// etc
+],
+        'Food': [
+],
+        'Doco\'s': [
+
+
+        ],
+        'History': [
+
+    
+],
+        'Travel & Discovery': [
+    
+        ],
+        'Entertainment': [
+
+
+
+
+
+],
+        'Reality': [],
+        'Movies': [],
+        'TV & Drama': [],
+        'Classic TV': [],
+        'Game Shows': [],
+        'Comedy': [],
+        'Music': [],
+        'Kids & Anime': [],
+        'Sport': []
+    };
+
+
+
+// Remove specified suffixes from list items
+function removeSuffixes(text) {
+    const suffixes = [
+        ' ------ Aus',
+        ' ------ Pluto CA',
+        ' ------ Pluto GB',
+        ' ------ Pluto US',
+        ' ------ Roku',
+        ' ------ Samsung CA',
+        ' ------ Samsung GB',
+        ' ------ Samsung US',
+        ' ------ Plex AU',
+        ' ------ Plex CA',
+        ' ------ Plex NZ',
+        ' ------ Plex US'
+    ];
+    for (const suffix of suffixes) {
+        if (text.endsWith(suffix)) {
+            return text.substring(0, text.length - suffix.length).trim();
+        }
+    }
+    return text;
+}
+
+// Tick checkboxes based on the selected category
+function tickCheckboxes(category) {
+    const itemsToSelect = categories[category] || [];
+    const options = document.querySelectorAll('mat-list-option');
+    options.forEach(option => {
+        let text = option.querySelector('.mat-list-text').innerText.trim();
+
+        text = removeSuffixes(text); // Remove suffixes for comparison
+
+        // Normalize text to lowercase and remove brackets for comparison
+        const normalizedText = text.toLowerCase().replace(/ *\([^)]*\) */g, '');
+        if (itemsToSelect.some(item => {
+            let normalizedItem = item.toLowerCase().replace(/ *\([^)]*\) */g, '');
+
+            normalizedItem = removeSuffixes(normalizedItem); // Remove suffixes for comparison
+            return normalizedText === normalizedItem;
+        })) {
+            option.click();
+        }
+    });
+}
+
+
+
+
+
+
+    // Ensure the dropdown and button are added after the page has loaded
+    window.onload = function() {
+        // Create the dropdown menu
+        const dropdown = document.createElement('select');
+
+        // Add options to the dropdown based on categories
+        for (const category in categories) {
+            const option = document.createElement('option');
+            option.value = category;
+            option.text = `${category} [${categories[category].length}]`;
+            dropdown.appendChild(option);
+        }
+
+        dropdown.style.position = 'fixed';
+        dropdown.style.bottom = '10px';
+        dropdown.style.right = '150px';
+        dropdown.style.padding = '5px';
+        dropdown.style.border = '1px solid #ccc';
+        dropdown.style.borderRadius = '5px';
+        dropdown.style.zIndex = '1000000000000000000000';
+
+        // Create a button to trigger the function
+        const button = document.createElement('div');
+        button.innerHTML = 'Tick Checkboxes';
+        button.style.position = 'fixed';
+        button.style.bottom = '10px';
+        button.style.right = '10px';
+        button.style.padding = '10px';
+        button.style.backgroundColor = '#007bff';
+        button.style.color = 'white';
+        button.style.border = 'none';
+        button.style.borderRadius = '5px';
+        button.style.cursor = 'pointer';
+        button.style.zIndex = '1000000000000000000000';
+        button.addEventListener('click', function() {
+            const selectedCategory = dropdown.value;
+            tickCheckboxes(selectedCategory);
+        });
+
+        // Add the dropdown and button to the body
+        document.body.appendChild(dropdown);
+        document.body.appendChild(button);
+    };
+})();
