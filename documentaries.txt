@@ -71,6 +71,7 @@ TED ------ Samsung CA
 TED (Samsung CA Copy) ------ Samsung US
 TED ------ Plex AU
 TED (Plex AU Copy) ------ Plex CA
+American Heroes Channel
 TED (Plex AU copy) ------ Plex NZ
 TED (Plex AU Copy) ------ Plex US
 True Stories ------ Aus
