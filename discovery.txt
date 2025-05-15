@@ -97,3 +97,8 @@ XPLORE ------ Roku
 Xtreme Outdoor by HISTORY (doesn't load, ss us copy)
 Xtreme Outdoor Presented by HISTORY ------ Pluto US
 Xtreme Outdoor Presented by HISTORY ------ Samsung US
+Animal Planet --MOJ
+Discovery Channel --MOJ
+DISCOVERY FAMILY CHANNEL --MOJ
+DISCOVERY LIFE --MOJ
+National Geographic Wild --MOJ
