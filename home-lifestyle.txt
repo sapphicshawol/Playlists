@@ -100,3 +100,5 @@ QVC ------ Pluto US
 QVC (Same as Pluto US)
 TVSN ------ Aus
 TVSN Shopping ------ Aus
+Destination America --MOJ
+HGTV
