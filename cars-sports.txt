@@ -3,8 +3,6 @@ ACCDN ------ Plex US
 ACL Cornhole TV ------ Plex CA
 ACL Cornhole TV ------ Plex NZ
 ACL Cornhole TV ------ Plex US
-American Ninja Warrior ------ Roku
-American Ninja Warrior ------ Samsung US
 AXS TV Now ------ Plex CA
 beIN SPORTS XTRA ------ Plex AU
 beIN SPORTS XTRA ------ Plex US
@@ -362,3 +360,8 @@ TSN 3 --MOJ
 TSN 4 --MOJ
 TSN 5 --MOJ
 WORLD FISHING NETWORK --MOJ
+Big 12 Studios ------ Samsung CA
+CTV Gridlock ------ Samsung CA
+DAZN TV ------ Pluto CA
+Hagerty ------ Samsung CA
+Strongman Champions League ------ Samsung GB
