@@ -102,3 +102,7 @@ Discovery Channel --MOJ
 DISCOVERY FAMILY CHANNEL --MOJ
 DISCOVERY LIFE --MOJ
 National Geographic Wild --MOJ
+CURIOSITY Now ------ Samsung GB
+Earth Touch ------ Samsung GB
+PiCK Paranormal ------ Samsung GB
+Wild at Heart ------ Pluto GB
