@@ -124,3 +124,30 @@ Pluto TV Westerns ------ Pluto US
 Pluto TV Westerns ------ Samsung US
 Romance 365 ------ Pluto CA
 Thrillers 365 ------ Pluto CA
+Cinevault Westerns ------ Samsung CA
+CINEVAULT: Classics ------ Samsung CA
+Circle ------ Samsung CA
+Comedy Movies - Rakuten TV ------ Samsung GB
+Drama Movies - Rakuten TV ------ Samsung GB
+Family - Rakuten TV ------ Samsung GB
+FilmRise Canadien ------ Samsung CA
+Gravitas Movies ------ Samsung CA
+Gravitas Movies ------ Samsung US
+Great! Movies ------ Samsung GB
+Great! romance ------ Samsung GB
+Grjngo - Western Movies ------ Samsung GB
+Icon Film Channel Christmas ------ Samsung GB
+Lifetime Movies ------ Samsung GB
+Movie Hub ------ Samsung US
+Movie Hub Action ------ Samsung US
+Movie Hub Romance ------ Samsung US
+Movie Hub West ------ Samsung US
+Movies on the Rotten Tomatoes Channel ------ Samsung US
+NEW KMOVIES ------ Samsung US
+Pluto TV 80's Action ------ Pluto GB
+Popflix ------ Samsung GB
+Romance Movies - Rakuten TV ------ Samsung GB
+Sony One Action HITS ------ Samsung GB
+Sparkle Movies ------ Samsung GB
+Top Movies - Rakuten TV ------ Samsung GB
+wedo movies ------ Samsung GB
