@@ -1,3 +1,24 @@
+Alerte Ã Malibu -----pl ca
+Bob l'Ã©ponge -----pl ca
+Classica -----pl ca
+Comedy Central Stand -----pl ca
+Cricket Gold -----pl ca
+Djazz -----pl ca
+Hawaii Five-0 -----pl ca
+Les Nouveaux DÃ©tectives -----pl ca
+Married... with Children -----pl ca
+More NCIS -----pl ca
+Movie Music by Stingray -----pl ca
+MTV Spankinâ€™ New -----pl ca
+Naturescape -----pl ca
+Pluto TV Documentaries -----pl ca
+Pluto TV Sci -----pl ca
+PokÃ©mon -----pl ca
+South Park En FranÃ§ais -----pl ca
+Summer of Movies -----pl ca
+Taxi -----pl ca
+Who's the Boss -----pl ca
+
 00s Replay -----pl gb
 50 Cent Action -----pl gb
 60 Minutes -----pl gb
@@ -725,3 +746,422 @@ Yu-Gi-Oh -----pl us
 ZenLIFE by Stingray -----pl us
 Zona TUDN -----pl us
 ZooMoo -----pl us
+
+Bon AppÃ©tit -----ss ca
+CG MMA En EspaÃ±ol -----ss ca
+Itâ€™s Anime -----ss ca
+Journy -----ss ca
+Les DÃ©batteurs de Noovo -----ss ca
+Noovo cinÃ©ma -----ss ca
+Noovo Ã‡a câ€™est drÃ´le -----ss ca
+PokÃ©mon -----ss ca
+
+GREAT! Mystery -----ss gb
+Soâ€¦Real -----ss gb
+The Guardian -----ss gb
+
+AMC en EspaÃ±ol -----ss us
+AquÃ­ y Ahora -----ss us
+beIN Sports XTRA Ã± -----ss us
+Bon AppÃ©tit -----ss us
+CG MMA En EspaÃ±ol -----ss us
+Flipping Nation by A&E -----ss us
+Hallmark en EspaÃ±ol -----ss us
+I Survivedâ€¦ -----ss us
+Itâ€™s Anime -----ss us
+Journy -----ss us
+Las 3 MarÃ­as -----ss us
+NFL Preseason All Access -----ss us
+PokÃ©mon -----ss us
+Samsung Showcase -----ss us
+SURF NOW TV -----ss us
+Telemundo Al DÃ­a -----ss us
+Worldâ€™s Most Evil Killers -----ss us
+Â¿QuÃ© Culpa Tiene FatmagÃ¼l? -----ss us
+
+beIN SPORTS Xtra en EspaÃ±ol ----rk
+Canela.TV ClÃ¡sicos ----rk
+Canela.TV Hollywood y MÃ¡s ----rk
+Canela.TV PasiÃ³n Latina ----rk
+Canela.TV PasiÃ³n Turca ----rk
+COPS en EspaÃ±ol ----rk
+CrÃ­menes Verdaderos ----rk
+Euronews EspaÃ±ol ----rk
+FILMEX ClÃ¡sico ----rk
+FilmRise PelÃ­culas Gratis ----rk
+FreeTV AcciÃ³n ----rk
+FreeTV SureÃ±o ----rk
+Hallmark en EspaÃ±ol ----rk
+HBCU-GO Sports ----rk
+LaMÃºsica TV ----rk
+Local Now Birmingham ----rk
+Local Now Columbus ----rk
+Local Now Greenville ----rk
+Local Now Indianapolis ----rk
+Local Now Kansas City ----rk
+Local Now Las Vegas ----rk
+Local Now Louisville ----rk
+Local Now Memphis ----rk
+Local Now New Orleans ----rk
+Local Now Salt Lake City ----rk
+Todo Novelas, MÃ¡s Pasiones ----rk
+Noticias Telemundo Ahora ----rk
+NovelÃ­sima ----rk
+POWERNATION en EspaÃ±ol ----rk
+Runtime EspaÃ±ol ----rk
+Runtime Sangre FrÃ­a ----rk
+SNL Vault ----rk
+Telemundo AcciÃ³n ----rk
+Telemundo Al DÃ­a ----rk
+Top BarÃ§a ----rk
+VenevisiÃ³n Internacional ----rk
+ÃšN TV ----rk
+
+beIN Sports XTRA En Español ----tb
+CBS 6 Richmond WTVR ----tb
+Cine EstrellaTV ----tb
+Estrella Games ----tb
+Estrella News ----tb
+EstrellaTV ----tb
+FOX SOUL ----tb
+Fox Sports Extra ----tb
+FOX Weather ----tb
+KATC News Acadiana ----tb
+Q2 News Billings ----tb
+Very Boston WCVB ----tb
+WBAL Very Baltimore 11 ----tb
+WGAL Very Lancaster 8 ----tb
+WMAR 2 Baltimore ----tb
+WMUR New Hampshire 9 ----tb
+WUSA DC/MD/VA 9 ----tb
+
+Always Funny en Espanol ---ln
+Azteca Internacional ---ln
+BRB Travel + Food ---ln
+Comedy Dynamics ---ln
+Crime & Punishment ---ln
+Docsville ---ln
+Electric Now en Espanol ---ln
+Entrepreneur TV ---ln
+Hello Inspo ---ln
+McLeod's Daughters ---ln
+Noticias Telemundo Ahora ---ln
+Outdoor Action TV ---ln
+OZ TV ---ln
+People Are Awesome ---ln
+Qwest TV ---ln
+Smart Healthy Green Living. ---ln
+Soul of the South ---ln
+StarTalk TV ---ln
+Stormcast True Stories ---ln
+Surfer ---ln
+Team Liquid TV ---ln
+Telemundo al Dia ---ln
+Telemundo Noticias California ---ln
+Telemundo Noticias Florida ---ln
+Telemundo Noticias Noreste ---ln
+Telemundo Noticias Texas ---ln
+The Biggest Loser ---ln
+The Western Channel ---ln
+Three Stooges+ ---ln
+TidPix ---ln
+Travelxp ---ln
+Unexplained ---ln
+USA Today News ---ln
+WFTS ABC Action News Tampa ---ln
+Wrestling Legends Network ---ln
+Xploration Station ---ln
+
+ABC NY ---moj
+Bounce ---moj
+Buzzr ---moj
+CBS ---moj
+CBS (KKTV) ---moj
+CINEMAX EAST ---moj
+CINEMAX WEST ---moj
+CNBC FHD ---moj
+CW (WKCF) ---moj
+Discovery Science ---moj
+DIY ---moj
+E ENTERTAINMENT TELEVISION ---moj
+Freeform ---moj
+FYI FHD ---moj
+Hallmark Mystery ---moj
+NBA 10 ---moj
+NBA 11 ---moj
+NBA 12 ---moj
+NBA 13 ---moj
+NBA 5 ---moj
+NBA 6 ---moj
+NBA 7 ---moj
+NBA 8 ---moj
+NBA 9 ---moj
+NBC ---moj
+NBC (WVGN) ---moj
+Outdoor Channel ---moj
+Sony Movie Channel ---moj
+Sportsman Channel ---moj
+Starz ---moj
+TNT ---moj
+WeTV ---moj
+WORLD FISHING NETWORK ---moj
+
+25 Words or Less ----xm
+50 Cent Action ----xm
+6abc Philadelphia ----xm
+ABC7 Bay Area ----xm
+ABC7 Chicago ----xm
+ABC7 Los Angeles ----xm
+ABC7 New York ----xm
+ACC Digital Network ----xm
+AccuWeather NOW ----xm
+Action News Jax ----xm
+Alien Nation by DUST ----xm
+All Reality We TV ----xm
+All Weddings We TV ----xm
+AMC Thrillers ----xm
+America's Test Kitchen ----xm
+American Ninja Warrior ----xm
+AMERICATEVÉ ----xm
+Anger Management Channel ----xm
+Antiques Road Trip ----xm
+Baby Shark TV ----xm
+Bachelor Nation ----xm
+Backstage ----xm
+Bark TV ----xm
+Barney and Friends ----xm
+Baywatch ----xm
+BBC Home & Garden ----xm
+beIN SPORTS XTRA ----xm
+beIN SPORTS XTRA en Español ----xm
+Big 12 Studios ----xm
+Bizaar ----xm
+Bizarre Foods with Andrew Zimmern ----xm
+Bleacher Report Sports Network ----xm
+Boston 25 ----xm
+Bravo Vault ----xm
+BUZZR ----xm
+Canela.TV Clasicos ----xm
+Caso Cerrado ----xm
+CBS News 24/7 ----xm
+CBS Sports HQ ----xm
+Cheaters ----xm
+Cine Romántico ----xm
+CineLife ----xm
+Circle Country ----xm
+Classic Doctor Who ----xm
+CNN Headlines ----xm
+CNN Originals ----xm
+Confess by Nosey ----xm
+Cook's Country Channel ----xm
+Cosmic Frontiers ----xm
+CraftsyTV ----xm
+Creator Television ----xm
+Curiosity Now ----xm
+Dateline 24/7 ----xm
+Declassified ----xm
+Designated Survivor ----xm
+DOCUMENTARY+ ----xm
+Dog Whisperer ----xm
+Dove ----xm
+Dr. Phil ----xm
+Dungeons & Dragons Adventures ----xm
+EarthXtra ----xm
+Ebony TV by Lionsgate ----xm
+ElectricNOW ----xm
+EncourageTV ----xm
+EstrellaTV ----xm
+ET ----xm
+Extreme Jobs ----xm
+FAITHOPE ----xm
+Family Feud Classic ----xm
+FanDuel TV Extra ----xm
+FILMEX ----xm
+FILMEX CLASICO ----xm
+FilmRise Western ----xm
+Fork & Flight ----xm
+FOX 10 Phoenix ----xm
+FOX 11 Los Angeles ----xm
+FOX 13 Seattle ----xm
+FOX 13 Tampa Bay ----xm
+FOX 2 Detroit ----xm
+FOX 2 San Francisco ----xm
+FOX 26 Houston ----xm
+FOX 29 Philadelphia ----xm
+FOX 32 Chicago ----xm
+FOX 35 Orlando ----xm
+FOX 4 Dallas | Fort Worth ----xm
+FOX 5 Atlanta ----xm
+FOX 5 New York ----xm
+FOX 5 Washington DC ----xm
+FOX 6 Milwaukee ----xm
+FOX 7 Austin ----xm
+FOX 9 Minneapolis-St. Paul ----xm
+Fox Weather ----xm
+FreeTV Sureño ----xm
+Ghost Hunters Channel ----xm
+Ghosts Are Real ----xm
+GLORY Kickboxing ----xm
+GOLFPASS ----xm
+GoTraveler ----xm
+GustoTV ----xm
+Hallmark en Español ----xm
+Hallmark Movies & More ----xm
+Haunt TV ----xm
+Hell's Kitchen ----xm
+HerSphere by Lionsgate ----xm
+Highway to Heaven ----xm
+Hit Sitcoms ----xm
+How To ----xm
+iHeart90s ----xm
+iHeartCountry ----xm
+iHeartRadio Hip Hop Beats ----xm
+Impact Gospel ----xm
+Impossible – Quiz Show ----xm
+Investigation ----xm
+It's Showtime at the Apollo ----xm
+Joel Osteen Network ----xm
+Johnny Carson TV ----xm
+JTV Jewelry Love ----xm
+Kartoon Channel! ----xm
+KFSN ABC30 Central CA ----xm
+KIRO Seattle ----xm
+Laff More ----xm
+Las Vegas ----xm
+Latino Vibes ----xm
+Law&Crime ----xm
+Lawless by Lionsgate ----xm
+Leave It to Beaver ----xm
+Lidia's Kitchen ----xm
+Little House on the Prairie ----xm
+LiveNOW from FOX ----xm
+Local Now ----xm
+LOL Network ----xm
+Love The Planet ----xm
+LUCHA PLUS ----xm
+McLeod's Daughters ----xm
+MovieSphere by Lionsgate ----xm
+Murder, She Wrote ----xm
+My Little Pony ----xm
+Mysterious Worlds ----xm
+Mystery Science Theater 3000 (MST3K) ----xm
+MythBusters ----xm
+NASCAR Channel ----xm
+Nash Bridges Channel ----xm
+NBC 10 Boston News ----xm
+NBC 10 Philadelphia News ----xm
+NBC 4 Los Angeles News ----xm
+NBC 4 New York News ----xm
+NBC 4 Washington News ----xm
+NBC 5 Chicago News ----xm
+NBC 5 Dallas-Fort Worth News ----xm
+NBC 6 South Florida News ----xm
+NBC 7 San Diego News ----xm
+NBC Bay Area News ----xm
+NBC Comedy Vault ----xm
+NBC Connecticut News ----xm
+NBC Sports NOW ----xm
+NEW Korean MOVIES & SERIES ----xm
+Newsmax2 ----xm
+NFL Channel ----xm
+Ninja Kidz TV ----xm
+Noticias Telemundo Ahora ----xm
+OAN Plus ----xm
+OK Gamer ----xm
+OuterSphere by Lionsgate ----xm
+OUTtv Proud ----xm
+PBR RidePass ----xm
+PBS Antiques Roadshow ----xm
+PBS Nature ----xm
+PFL MMA ----xm
+PickleballTV ----xm
+Places & Spaces ----xm
+pocket.watch Game-On ----xm
+PokerGO ----xm
+Portlandia ----xm
+Power Rangers ----xm
+Property & Reno ----xm
+Pure Flix TV ----xm
+PursuitUp ----xm
+QVC2 ----xm
+RACER Select ----xm
+Rainbow Rangers ----xm
+Real Disaster Channel ----xm
+Real Housewives Vault ----xm
+Real Madrid TV ----xm
+REELZ Famous & Infamous ----xm
+Reuters 60 ----xm
+Revry ----xm
+Rig TV ----xm
+Ryz Sports Network ----xm
+Salem News Channel ----xm
+Say Yes to the Dress ----xm
+Scares by Shudder ----xm
+Sensical Jr. ----xm
+Shades of Black ----xm
+Shaun the Sheep & Friends ----xm
+ShopLC ----xm
+Shout! Movies ----xm
+Spectrum News+ ----xm
+Spectrum Noticias ----xm
+Stash TV ----xm
+Stingray Greatest Hits ----xm
+Stingray Hot Country ----xm
+Stingray Soul Storm ----xm
+Strongman Champions League ----xm
+Supermarket Sweep ----xm
+Sweet Escapes ----xm
+Tastemade Home ----xm
+Tastemade Travel Channel ----xm
+Telemundo Acción ----xm
+Telemundo Al Día ----xm
+Telemundo Noticias Noreste ----xm
+TennisChannel 2 ----xm
+The Adventures of Rocky and Bullwinkle and Friends ----xm
+The Carol Burnett Show ----xm
+The Conners ----xm
+The Ellen Channel ----xm
+The F.B.I. ----xm
+The Lone Ranger ----xm
+The Lucky Dog Channel ----xm
+The NBA Channel ----xm
+The Osbournes ----xm
+The Price is Right: The Barker Era ----xm
+The Wu Tang Collection TV ----xm
+The Yorkshire Vet & Friends ----xm
+TNA Wrestling Channel ----xm
+TODAY All Day ----xm
+Today's Homeowner ----xm
+Toon Goggles ----xm
+Top Gear ----xm
+Transformers ----xm
+Trinity Broadcasting Network ----xm
+True History Channel ----xm
+TV One CRIME & JUSTICE FAST CHANNEL ----xm
+TV One Stars & Stories ----xm
+TWN Elements ----xm
+Unbeaten Sports Channel ----xm
+Universal Movies ----xm
+Unsolved Mysteries ----xm
+Untold Stories of the ER ----xm
+WaypointTV ----xm
+Wendy Williams ----xm
+Western Bound Wrangled by INSP ----xm
+WFTV Orlando ----xm
+Wild West TV ----xm
+WildEarth ----xm
+Willow Sports ----xm
+WITZ Comedy TV ----xm
+World Poker Tour ----xm
+World's Wildest Police Videos ----xm
+WPXI Pittsburgh ----xm
+WSB Atlanta ----xm
+WSOC Charlotte ----xm
+WTVD ABC11 24/7 Streaming Channel ----xm
+Xumo Free Bollywood & Indian Cinema ----xm
+Xumo Free Comedy TV ----xm
+Xumo Free Crime TV ----xm
+Xumo Free Food TV ----xm
+Xumo Free Nature & Wildlife TV ----xm
+Xumo Free Reality TV ----xm
+Xumo Free Travel & Lifestyle TV ----xm
